@@ -1,4 +1,4 @@
-# vidatIPAK
+# visdatIPAK
 ## Memenuhi tugas Visualisasi data kelas 3SD2 STIS
 Anggota
 - Dandy Adetiar A (221709604)
